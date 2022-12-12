@@ -1,2 +1,7 @@
 .vscode/
 *.java
+test.ipynb
+data/
+accident_dataset/
+new_dataset/
+runs/
